@@ -1,4 +1,4 @@
 jquerytest
 ==========
 
-This is a repositiry for the Jquery mobile sample page from Dreamweaver
+This is a repository for the Jquery mobile sample page from Dreamweaver
