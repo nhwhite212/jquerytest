@@ -1,0 +1,9 @@
+{
+    "lib": {
+        "www": {
+            "id": “edu.nyu.stern.nwhite.hello”,
+            "version": “3.6.3”,
+            "uri": "https://github.com/phonegap/phonegap-app-hello-world/archive/3.6.3.tar.gz"
+        }
+    }
+}
